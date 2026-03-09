@@ -1,6 +1,6 @@
-# Latex Beamer Slide with video player
+# Latex Beamer PDF slide with video player
 
-This LaTeX code creates a Beamer presentation with a slide which includes a video player displaying a movie file.
+This LaTeX code creates a Beamer presentation with a PDF slide which includes a video player displaying a movie file.
 This was achieved using the *multimedia* Latex package.
 
 I tested it under GNU/Linux with *Okular*.
